@@ -57,3 +57,9 @@ Traceback (most recent call last):
     raise AttributeError(msg.format(prop, type(self).__name__, self._name))
 AttributeError: Cannot set attribute 'enabled' because PropertySet object 'States' is immutable
 ```
+
+## FAQ
+
+### Why shouldn't I just use a `frozenset`?
+
+I dunno, syntactic sugar? No-one's stopping you, go ahead, see if I care. *weeps silently*
