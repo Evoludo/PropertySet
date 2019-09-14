@@ -1,6 +1,6 @@
 # PropertySet
 
-A Python module to enumerate sets composed of strings, usable as class properties.
+A Python module to enumerate sets composed of strings, usable as class properties. Or "I wish I was using Haskell and I miss typeclassess, damnit!". 
 
 This stops stupid stuff like this:
 
